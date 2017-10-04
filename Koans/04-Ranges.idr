@@ -11,6 +11,6 @@ stepDown : Bool
 stepDown = ?fillme3 == [20,17..1]
 
 stopMe : List Integer
-stopMe = ?fillme4 [1..]
+stopMe = head [1..]
 
 -- --------------------------------------------------------------------- [ EOF ]
